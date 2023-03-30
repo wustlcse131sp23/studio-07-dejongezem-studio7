@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"studio7","c":"Die","l":"Die(int)","u":"%3Cinit%3E(int)"},{"p":"studio7","c":"Die","l":"roll()"}];updateSearchResults();
